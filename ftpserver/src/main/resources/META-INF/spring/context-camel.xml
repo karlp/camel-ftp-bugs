@@ -1,0 +1,14 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:camel="http://camel.apache.org/schema/spring"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://camel.apache.org/schema/spring http://camel.apache.org/schema/spring/camel-spring-2.0.0.xsd
+       http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+    <bean name="camelRouter" class="is.vf.bugs.camel.ftp.FakeFtpRouter">
+        <property name="ftpEndpoint" value="ftp://camelUser@localhost:2121/autreq?passiveMode=true&amp;password=camelUser"/>
+    </bean>
+
+    <camel:camelContext id="context" autoStartup="true">
+        <camel:routeBuilder ref="camelRouter"/>
+    </camel:camelContext>
+</beans>
