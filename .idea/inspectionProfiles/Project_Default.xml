@@ -1,0 +1,76 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0" is_locked="false">
+    <option name="myName" value="Project Default" />
+    <option name="myLocal" value="false" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="type" />
+            <item index="1" class="java.lang.String" itemvalue="wmode" />
+            <item index="2" class="java.lang.String" itemvalue="src" />
+            <item index="3" class="java.lang.String" itemvalue="width" />
+            <item index="4" class="java.lang.String" itemvalue="height" />
+            <item index="5" class="java.lang.String" itemvalue="xmlns:wicket" />
+            <item index="6" class="java.lang.String" itemvalue="wicket:id" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="9">
+            <item index="0" class="java.lang.String" itemvalue="embed" />
+            <item index="1" class="java.lang.String" itemvalue="nobr" />
+            <item index="2" class="java.lang.String" itemvalue="noembed" />
+            <item index="3" class="java.lang.String" itemvalue="comment" />
+            <item index="4" class="java.lang.String" itemvalue="script" />
+            <item index="5" class="java.lang.String" itemvalue="wicket:message" />
+            <item index="6" class="java.lang.String" itemvalue="wicket:border" />
+            <item index="7" class="java.lang.String" itemvalue="wicket:link" />
+            <item index="8" class="java.lang.String" itemvalue="wicket:body" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="TOP_LEVEL_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="INNER_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="METHOD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+        </value>
+      </option>
+      <option name="FIELD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="IGNORE_DEPRECATED" value="false" />
+      <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+      <option name="myAdditionalJavadocTags" value="hibernate.id,hibernate.generator-param,hibernate.property,hibernate.many-to-one,hibernate.collection-one-to-many,hibernate.collection-key,hibernate.set" />
+    </inspection_tool>
+    <inspection_tool class="groupsTestNG" level="WARNING" enabled="false">
+      <option name="groups">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

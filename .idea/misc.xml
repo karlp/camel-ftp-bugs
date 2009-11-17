@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildJarProjectSettings">
+    <option name="BUILD_JARS_ON_MAKE" value="false" />
+  </component>
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="EclipseCompilerSettings">
+    <option name="DEBUGGING_INFO" value="true" />
+    <option name="GENERATE_NO_WARNINGS" value="true" />
+    <option name="DEPRECATION" value="false" />
+    <option name="ADDITIONAL_OPTIONS_STRING" value="" />
+    <option name="MAXIMUM_HEAP_SIZE" value="128" />
+  </component>
+  <component name="FacetAutodetectingManager">
+    <autodetection-disabled>
+      <facet-type id="web">
+        <modules>
+          <module name="ftpserver" />
+          <module name="untitled" />
+        </modules>
+      </facet-type>
+      <facet-type id="jsf">
+        <modules>
+          <module name="untitled">
+            <directories>
+              <directory url="file://$PROJECT_DIR$/untitled/overlays" />
+            </directories>
+          </module>
+        </modules>
+      </facet-type>
+      <facet-type id="BeanValidation">
+        <modules>
+          <module name="untitled">
+            <directories>
+              <directory url="file://$PROJECT_DIR$/untitled/overlays" />
+            </directories>
+          </module>
+        </modules>
+      </facet-type>
+      <facet-type id="android">
+        <modules>
+          <module name="untitled">
+            <directories>
+              <directory url="file://$PROJECT_DIR$/untitled/overlays" />
+            </directories>
+          </module>
+        </modules>
+      </facet-type>
+      <facet-type id="jpa">
+        <modules>
+          <module name="untitled">
+            <directories>
+              <directory url="file://$PROJECT_DIR$/untitled/overlays" />
+            </directories>
+          </module>
+        </modules>
+      </facet-type>
+      <facet-type id="javaeeApplication">
+        <modules>
+          <module name="untitled">
+            <directories>
+              <directory url="file://$PROJECT_DIR$/untitled/overlays" />
+            </directories>
+          </module>
+        </modules>
+      </facet-type>
+      <facet-type id="hibernate">
+        <modules>
+          <module name="untitled">
+            <directories>
+              <directory url="file://$PROJECT_DIR$/untitled/overlays" />
+            </directories>
+          </module>
+        </modules>
+      </facet-type>
+      <facet-type id="tapestry">
+        <modules>
+          <module name="untitled">
+            <directories>
+              <directory url="file://$PROJECT_DIR$/untitled/overlays" />
+            </directories>
+          </module>
+        </modules>
+      </facet-type>
+      <facet-type id="WebBeans">
+        <modules>
+          <module name="untitled">
+            <directories>
+              <directory url="file://$PROJECT_DIR$/untitled/overlays" />
+            </directories>
+          </module>
+        </modules>
+      </facet-type>
+      <facet-type id="ejb">
+        <modules>
+          <module name="untitled">
+            <directories>
+              <directory url="file://$PROJECT_DIR$/untitled/overlays" />
+            </directories>
+          </module>
+        </modules>
+      </facet-type>
+      <facet-type id="Osmorc">
+        <modules>
+          <module name="untitled">
+            <directories>
+              <directory url="file://$PROJECT_DIR$/untitled/overlays" />
+            </directories>
+          </module>
+        </modules>
+      </facet-type>
+      <facet-type id="google-app-engine">
+        <modules>
+          <module name="untitled">
+            <directories>
+              <directory url="file://$PROJECT_DIR$/untitled/overlays" />
+            </directories>
+          </module>
+        </modules>
+      </facet-type>
+      <facet-type id="Spring">
+        <modules>
+          <module name="untitled">
+            <directories>
+              <directory url="file://$PROJECT_DIR$/untitled/overlays" />
+            </directories>
+          </module>
+        </modules>
+      </facet-type>
+    </autodetection-disabled>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" />
+    <option name="OPTION_SCOPE" value="protected" />
+    <option name="OPTION_HIERARCHY" value="true" />
+    <option name="OPTION_NAVIGATOR" value="true" />
+    <option name="OPTION_INDEX" value="true" />
+    <option name="OPTION_SEPARATE_INDEX" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="true" />
+    <option name="OPTION_DEPRECATED_LIST" value="true" />
+    <option name="OTHER_OPTIONS" value="" />
+    <option name="HEAP_SIZE" />
+    <option name="LOCALE" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+  </component>
+  <component name="JikesSettings">
+    <option name="JIKES_PATH" value="" />
+    <option name="DEBUGGING_INFO" value="true" />
+    <option name="DEPRECATION" value="true" />
+    <option name="GENERATE_NO_WARNINGS" value="false" />
+    <option name="IS_EMACS_ERRORS_MODE" value="true" />
+    <option name="ADDITIONAL_OPTIONS_STRING" value="" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ftpserver/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectDetails">
+    <option name="projectName" value="camel-ftp-bug" />
+  </component>
+  <component name="ProjectKey">
+    <option name="state" value="project://default" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" assert-keyword="true" jdk-15="true" project-jdk-name="IDEA IU-90.162" project-jdk-type="IDEA JDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="WebServicesPlugin" addRequiredLibraries="true" />
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+</project>
+
